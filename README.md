@@ -15,12 +15,13 @@ This Python-based voice assistant is designed to provide a personalized and inte
 To get started with this voice assistant, follow these steps:
 
 1. **Clone the Repository:**
-git clone https://github.com/yourusername/CodeAlpha_Project_Name.git
+git clone https://github.com/abdul-kareem-2410/codealpha_tasks
+.git
 
-2. **Navigate to the Project Directory:**
+3. **Navigate to the Project Directory:**
 cd CodeAlpha_Project_Name
 
-3. **Install Required Packages:**
+4. **Install Required Packages:**
 Ensure you have Python installed. Install the necessary Python libraries using pip:
 pip install pyttsx3 SpeechRecognition
 
